@@ -1,10 +1,10 @@
 {
     "name": "HongDou-Client-Library",
-    "version": "0.0.4",
-    "description": "A Design UI library for React",
+    "version": "0.0.1",
+    "description": "Hongdou",
     "main": "lib/index.js",
     "module": "esm/index.js",
-    "author": "ParaSLee",
+    "author": "Ivan",
     "license": "MIT",
     "repository": {
         "type": "git",
